@@ -3,6 +3,7 @@
 
 # 帮助
 python3 host_vs_ip.py -h
+<img width="654" height="206" alt="image" src="https://github.com/user-attachments/assets/cf8bc170-17ed-4f9d-bcf1-bae54e9c4216" />
 
 # 使用默认线程数(20)
 python3 host_vs_ip.py -furl domains.txt -fip ips.txt -o results.csv
